@@ -4,7 +4,7 @@ A motion background design with an infinite repetition designed completely with 
 - You can add your own custom png and align accordingly to use them.
 
 ## HOW TO ACCESS
- - Click on the link to open the webiste 
+ - Click on the link to open the webiste  https://yayady1999.github.io/motion-background/
 - Once it opens , check the effects and see the png in motion.
 - Have Fun
 
